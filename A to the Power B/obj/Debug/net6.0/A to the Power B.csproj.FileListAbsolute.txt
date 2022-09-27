@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\bin\Debug\net6.0\A to the Power B.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\bin\Debug\net6.0\A to the Power B.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\bin\Debug\net6.0\A to the Power B.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\bin\Debug\net6.0\A to the Power B.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\bin\Debug\net6.0\A to the Power B.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\refint\A to the Power B.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\A to the Power B.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\A to the Power B\obj\Debug\net6.0\ref\A to the Power B.dll
