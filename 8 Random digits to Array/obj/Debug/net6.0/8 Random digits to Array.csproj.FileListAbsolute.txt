@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\bin\Debug\net6.0\8 Random digits to Array.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\bin\Debug\net6.0\8 Random digits to Array.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\bin\Debug\net6.0\8 Random digits to Array.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\bin\Debug\net6.0\8 Random digits to Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\bin\Debug\net6.0\8 Random digits to Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\refint\8 Random digits to Array.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\8 Random digits to Array.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\8 Random digits to Array\obj\Debug\net6.0\ref\8 Random digits to Array.dll
