@@ -1,0 +1,15 @@
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.csproj.AssemblyReference.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.AssemblyInfoInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.AssemblyInfo.cs
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.csproj.CoreCompileInputs.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\bin\Debug\net6.0\Sum of digits in Number.exe
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\bin\Debug\net6.0\Sum of digits in Number.deps.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\bin\Debug\net6.0\Sum of digits in Number.runtimeconfig.json
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\bin\Debug\net6.0\Sum of digits in Number.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\bin\Debug\net6.0\Sum of digits in Number.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\refint\Sum of digits in Number.dll
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.pdb
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\Sum of digits in Number.genruntimeconfig.cache
+C:\Users\lavanal\OneDrive - Renaissance Capital\Desktop\HR\python\Home tasks\5 С#\Lesson4. Functions\Sum of digits in Number\obj\Debug\net6.0\ref\Sum of digits in Number.dll
